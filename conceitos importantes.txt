@@ -1,0 +1,36 @@
+
+REVISÃO GIT
+
+É um sistema que faz o controle de versões de arquivos. O git 
+pode ser usado para registrar todo o histórico de alterações em
+arquivos diversos.
+---------------------------------------------------------------
+Como funciona?
+
+Funciona através de linhas de comandos no git bash (terminal).
+---------------------------------------------------------------
+Principais comandos do git bash
+
+git init= inicia o repositorio
+
+git clone = copia o repositório para o pc
+
+git status= verifica a situação do diretório
+
+git add = realiza a inclusão ou modificação do 
+
+arquivo no diretório local
+
+git commite -m " mensagem" = guarda o estado do
+
+seu repositório naquele momento
+
+git push origin main = manda o arquivo para o git hub 
+---------------------------------------------------------------
+Git hub
+
+GitHub é uma plataforma de hospedagem de código-fonte e arquivos 
+com controle de versão usando o Git (terminal).
+
+site onde é criado o repositório online
+---------------------------------------------------------------
